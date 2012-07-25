@@ -1,0 +1,74 @@
+.NGShare-Panel{
+	background: #606060 !important;
+	border: 3px white solid !important;
+}
+
+.NGShare-Panel .x-button{
+	background: url(../images/ngshare/cancelBg.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+	color:white;
+}
+
+.NGShare-Panel .x-button.x-button-pressing{
+	background: #ccc;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+	color:black;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-FB{
+	background: url(../images/ngshare/faceBtn.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-FB.x-button-pressing{
+	background: url(../images/ngshare/faceBtnActive.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-TWITTER{
+	background: url(../images/ngshare/twitterBtn.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-TWITTER.x-button-pressing{
+	background: url(../images/ngshare/twitterBtnActive.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-EMAIL{
+	background: url(../images/ngshare/emailBtn.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-button.NGShare-BTN-EMAIL.x-button-pressing{
+	background: url(../images/ngshare/emailBtnActive.png) no-repeat;
+	background-size: 100%;
+	border: none;
+	width: 200px;
+	height: 44px;
+}
+
+.NGShare-Panel .x-layout-vbox{
+	background:none !important;
+}
