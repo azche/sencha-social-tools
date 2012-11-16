@@ -4,6 +4,7 @@
 		Share By Twitter
 		Share By EMail
 
+
 	HOW TO USE IT ?
 
 		var NGShare = Ext.create('NG.Share');
